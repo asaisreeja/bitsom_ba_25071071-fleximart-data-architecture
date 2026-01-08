@@ -1,0 +1,11 @@
+ETL STARTED AT: 2026-01-06 11:53:55.996768
+Customers records read: 26
+Products records read: 20
+Sales records read: 41
+Customer duplicates removed: 1
+Product duplicates removed: 0
+Customers loaded successfully: 25
+Products loaded successfully: 20
+Orders loaded successfully: 35
+Order items loaded successfully: 35
+ETL COMPLETED AT: 2026-01-06 11:53:58.629442
